@@ -4,6 +4,9 @@
 
 Game of life implementation on WASM, referenced on [`Rust and WebAssembly`](https://rustwasm.github.io/docs/book/introduction.html)
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/24654975/135067268-f61225d9-8f61-4d07-a6e5-1a578ea856cb.png)
+
 ## How to build?
 ```bash
 git clone https://github.com/snowapril/wasm-game-of-life
